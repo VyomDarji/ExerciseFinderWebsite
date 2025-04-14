@@ -1,0 +1,50 @@
+[
+  {
+    "muscle": "biceps",
+    "exercises": [
+      { "name": "Barbell Curl", "sets": 3, "reps": 10 },
+      { "name": "Hammer Curl", "sets": 3, "reps": 12 },
+      { "name": "Concentration Curl", "sets": 3, "reps": 8 }
+    ]
+  },
+  {
+    "muscle": "triceps",
+    "exercises": [
+      { "name": "Tricep Dips", "sets": 3, "reps": 12 },
+      { "name": "Overhead Extension", "sets": 3, "reps": 10 },
+      { "name": "Close Grip Bench Press", "sets": 4, "reps": 8 }
+    ]
+  },
+  {
+    "muscle": "chest",
+    "exercises": [
+      { "name": "Bench Press", "sets": 4, "reps": 8 },
+      { "name": "Incline Dumbbell Press", "sets": 3, "reps": 10 },
+      { "name": "Push-Ups", "sets": 3, "reps": 15 }
+    ]
+  },
+  {
+    "muscle": "leg",
+    "exercises": [
+      { "name": "Squats", "sets": 4, "reps": 10 },
+      { "name": "Lunges", "sets": 3, "reps": 12 },
+      { "name": "Leg Press", "sets": 3, "reps": 10 }
+    ]
+  },
+  {
+    "muscle": "back",
+    "exercises": [
+      { "name": "Deadlift", "sets": 4, "reps": 6 },
+      { "name": "Lat Pulldown", "sets": 3, "reps": 10 },
+      { "name": "Bent-over Row", "sets": 3, "reps": 8 }
+    ]
+  },
+  {
+    "muscle": "shoulder",
+    "exercises": [
+      { "name": "Overhead Press", "sets": 3, "reps": 8 },
+      { "name": "Lateral Raise", "sets": 3, "reps": 12 },
+      { "name": "Front Raise", "sets": 3, "reps": 10 }
+    ]
+  }
+]
